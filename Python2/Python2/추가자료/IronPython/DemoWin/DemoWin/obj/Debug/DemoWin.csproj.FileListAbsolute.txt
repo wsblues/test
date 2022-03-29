@@ -1,0 +1,13 @@
+c:\work\DemoWin\DemoWin\bin\Debug\DemoWin.exe.config
+c:\work\DemoWin\DemoWin\bin\Debug\DemoWin.exe
+c:\work\DemoWin\DemoWin\bin\Debug\DemoWin.pdb
+c:\work\DemoWin\DemoWin\bin\Debug\IronPython.SQLite.dll
+c:\work\DemoWin\DemoWin\bin\Debug\IronPython.Wpf.dll
+c:\work\DemoWin\DemoWin\bin\Debug\IronPython.SQLite.xml
+c:\work\DemoWin\DemoWin\bin\Debug\IronPython.Wpf.xml
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.csprojResolveAssemblyReference.cache
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.Form1.resources
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.Properties.Resources.resources
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.csproj.GenerateResource.Cache
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.exe
+c:\work\DemoWin\DemoWin\obj\Debug\DemoWin.pdb
