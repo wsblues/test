@@ -6,3 +6,7 @@ class MyClass:
     def __del__(self):
         print("Instance is deleted!")
 
+
+my = MyClass(10)
+del my
+
